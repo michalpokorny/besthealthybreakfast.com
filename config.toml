@@ -30,15 +30,12 @@ paginate = 9
     name = "Tags"
     url = "/tags/"
     weight = 4
-[[menu.main]]
-    name = "Subscribe"
-    url = "/index.xml"
+
 
 [params]
     description = "A website built through Hugo and blogdown."
     summary_length = 200
-    github_edit = "https://github.com/yihui/hugo-xmag/edit/master/exampleSite/content/"
-    footer = "&copy; [Yihui Xie](https://yihui.name) 2017 | [Github](https://github.com/yihui) | [Twitter](https://twitter.com/xieyihui)"
+    footer = "&copy; besthealthybreakfast.com 2017"
 
 [params.text]
     back = "&larr; Back to Home"

@@ -205,5 +205,10 @@ body > div > main > div:nth-child(2) {
 }
 
 .article-list{
-  padding-top: 110px;
+  padding-top: 160px;
+}
+
+h2 {
+  text-align: center;
+
 }

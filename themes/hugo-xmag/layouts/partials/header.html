@@ -24,9 +24,6 @@
         {{ else }}
           {{ $.Scratch.Set "FilePath" .File.Path }}
         {{ end }}
-        {{ with .Site.Params.github_edit}}
-        <span><a href="{{ . }}{{ $.Scratch.Get "FilePath" }}">{{ (default "Edit this page" $.Site.Params.text.edit) | safeHTML }}</a></span>
-        {{ end }}
         {{ end }}
       {{ else }}
         <span>{{ $.Scratch.Get "Title" }}</span>
