@@ -6,12 +6,20 @@ tags:
  - blueberries
  - 25mins
 thumbnail: /images/healthy-greek-yogurt-brownies.jpg
+time: "25 mins"
+ingredients: "13 ingredients"
+stars: http://poll-prizes.com/wp-content/uploads/2017/11/star45.png
 
 ---
-## Time of preparation
- Preparation 	| Cook 			| Total
-  ------------- | ------------- |-------------
-  5 mins		| 20 mins 		|25 mins
+
+<div class="cookingSummary">
+<ul class="cookingSummary">
+	<li>5 mins<br>Prep Time</li>
+	<li>20 mins<br>Cook Time</li>
+	<li>25 mins<br>Total Time</li>
+	<li style="padding-top: 10px"><img src="http://poll-prizes.com/wp-content/uploads/2017/11/star45.png"></li>
+</div>
+
 
 ## Ingredients
 -	¼ cup almond flour or oat flour*

@@ -6,12 +6,19 @@ tags:
  - creamy
  - 12mins
 thumbnail: /images/warm-creamy-porridge.jpg
+time: "11 mins"
+ingredients: "6 ingredients"
+stars: http://poll-prizes.com/wp-content/uploads/2017/11/star50.png
 
 ---
-## Time of preparation
- Preparation 	| Cook 			| Total
-  ------------- | ------------- |-------------
-  1 mins		| 10 mins 		|11 mins
+
+<div class="cookingSummary">
+<ul class="cookingSummary">
+	<li>1 mins<br>Prep Time</li>
+	<li>10 mins<br>Cook Time</li>
+	<li>11 mins<br>Total Time</li>
+	<li style="padding-top: 10px"><img src="http://poll-prizes.com/wp-content/uploads/2017/11/star50.png"></li>
+</div>
 
 ## Ingredients
 -	1/2 cup rolled oats (not instant).

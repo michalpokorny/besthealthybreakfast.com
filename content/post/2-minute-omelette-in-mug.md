@@ -6,12 +6,19 @@ tags:
  - Egg
  - 12mins
 thumbnail: /images/2-minute-omelette-in-a-mug.jpg
+time: "5 mins"
+ingredients: "6 ingredients"
+stars: http://poll-prizes.com/wp-content/uploads/2017/11/star40.png
 
 ---
-## Time of preparation
- Preparation 	| Cook 			| Total
-  ------------- | ------------- |-------------
-  3 mins		| 2 mins 		|5 mins
+<div class="cookingSummary">
+<ul class="cookingSummary">
+	<li>5 mins<br>Total Time</li>
+	<li>3 mins<br>Prep Time</li>
+	<li>2 mins<br>Cook Time</li>
+	<li style="padding-top: 10px"><img src="http://poll-prizes.com/wp-content/uploads/2017/11/star40.png"></li>
+</div>
+
 
 ## Ingredients
 -	2 to 3 eggs

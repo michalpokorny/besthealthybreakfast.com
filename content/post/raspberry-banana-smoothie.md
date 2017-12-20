@@ -3,15 +3,22 @@ title: "Raspberry Banana Smoothie"
 date: 2017-12-13T12:39:22+01:00
 author: Name Surname
 tags:
- - rassberry
+ - raspberry
  - 12mins
 thumbnail: /images/raspberry-banana-smoothie.jpg
+time: "5 mins"
+ingredients: "5 ingredients"
+stars: http://poll-prizes.com/wp-content/uploads/2017/11/star50.png
 
 ---
-## Time of preparation
- Preparation 	| Cook 			| Total
-  ------------- | ------------- |-------------
-  5 mins		| 0 mins 		|5 mins
+
+<div class="cookingSummary">
+<ul class="cookingSummary">
+	<li>5 mins<br>Prep Time</li>
+	<li>0 mins<br>Cook Time</li>
+	<li>5 mins<br>Total Time</li>
+	<li style="padding-top: 10px"><img src="http://poll-prizes.com/wp-content/uploads/2017/11/star50.png"></li>
+</div>
 
 ## Ingredients
 -	3 very ripe bananas, cut into chunks, frozen

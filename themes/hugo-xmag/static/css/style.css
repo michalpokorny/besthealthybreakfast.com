@@ -3,6 +3,38 @@ body {
   line-height: 1.5em;
   background: #fafafa;
 }
+ol > li{
+    padding-top: 6px;
+    background-size: 25px;
+    background-position-y: 3px;
+    background-position-x: 3px;
+}
+h2#ingredients {
+    margin-top: 0;
+}
+div.cookingSummary{
+  position: relative;
+    float: left;
+    width: 100%;
+    margin-bottom: 30px;
+    height: 55px;
+    margin-top: 20px;
+}
+ul.cookingSummary{
+    list-style: none;
+    padding: 0;
+    margin-top: 0;
+    text-align: center;
+}
+ul.cookingSummary > li{
+  width: 25%;
+  float: left;
+}
+.article-meta {
+    background-size: cover;
+    background-position-y: -135px;
+    background-repeat: no-repeat;
+}
 .header div, .container, .copyright, .menu {
   max-width: 1100px;
   margin: auto;
@@ -14,7 +46,7 @@ body {
   .page .container { padding: 0; }
 }
 main { margin-bottom: 15px; }
-
+a{color: #000;text-decoration: none;}
 /* header and footer areas */
 .header {
   border-top: 5px solid #ffb93d;
@@ -78,10 +110,14 @@ article { padding: 1em; }
   background: #ffb93d;
   padding: 5px;
   border-radius: 5px;
+  color: #fff;
+}
+.article-meta p a{
+  color: #fff;
 }
 .menu, .article-meta, footer, .post-nav { text-align: center; }
 .article-footer { text-align: left; }
-.title { font-size: 1.2em; }
+.title { font-size: 1.0em; }
 .article-list h1, .title { line-height: 1.2em; }
 .article-list a, .header a, footer a, .categories a, .active a, .comments a { text-decoration: none; }
 .pagination { text-align: center; }
@@ -181,7 +217,7 @@ tr:nth-child(even) { background: #eee }
 /*Temp style*/
 
 .infoBlock {
-    width: 32%;
+    width: 33%;
     text-align: center;
     height: 20px;
     padding-top: 15px;
@@ -209,6 +245,6 @@ body > div > main > div:nth-child(2) {
 }
 
 h2 {
-  text-align: center;
+  text-align: left;
 
 }
