@@ -8,7 +8,7 @@ tags:
 thumbnail: /images/simple-blackberry-chia-pudding.jpg
 time: "12 mins"
 ingredients: "5 ingredients"
-stars: /images/star40.png
+stars: star40
 
 ---
 
@@ -17,7 +17,7 @@ stars: /images/star40.png
 	<li>2 mins<br>Prep Time</li>
 	<li>10 mins<br>Cook Time</li>
 	<li>12 mins<br>Total Time</li>
-	<li style="padding-top: 10px"><img src="/images/star40.png"></li>
+	<li style="padding-top: 10px"><div class="star40"></div></li>
 </div>
 
 

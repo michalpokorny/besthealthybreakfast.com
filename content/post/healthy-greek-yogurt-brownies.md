@@ -8,7 +8,7 @@ tags:
 thumbnail: /images/healthy-greek-yogurt-brownies.jpg
 time: "25 mins"
 ingredients: "13 ingredients"
-stars: /images/star45.png
+stars: star45
 
 ---
 
@@ -17,7 +17,7 @@ stars: /images/star45.png
 	<li>5 mins<br>Prep Time</li>
 	<li>20 mins<br>Cook Time</li>
 	<li>25 mins<br>Total Time</li>
-	<li style="padding-top: 10px"><img src="/images/star45.png"></li>
+	<li style="padding-top: 10px"><div class="star45"></div></li>
 </div>
 
 

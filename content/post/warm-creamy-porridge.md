@@ -8,7 +8,7 @@ tags:
 thumbnail: /images/warm-creamy-porridge.jpg
 time: "11 mins"
 ingredients: "6 ingredients"
-stars: /images/star50.png
+stars: star50
 
 ---
 
@@ -17,7 +17,7 @@ stars: /images/star50.png
 	<li>1 mins<br>Prep Time</li>
 	<li>10 mins<br>Cook Time</li>
 	<li>11 mins<br>Total Time</li>
-	<li style="padding-top: 10px"><img src="/images/star50.png"></li>
+	<li style="padding-top: 10px"><div class="star50"></div>></li>
 </div>
 
 ## Ingredients
