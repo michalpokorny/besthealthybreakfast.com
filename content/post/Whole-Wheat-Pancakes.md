@@ -8,7 +8,7 @@ tags:
 thumbnail: /images/Whole-Wheat-Pancakes.jpg
 time: "20 mins"
 ingredients: "9 Ingredients"
-stars: http://poll-prizes.com/wp-content/uploads/2017/11/star50.png
+stars: /images/star50.png
 
 ---
 
@@ -17,7 +17,7 @@ stars: http://poll-prizes.com/wp-content/uploads/2017/11/star50.png
 	<li>5 mins<br>Prep Time</li>
 	<li>15 mins<br>Cook Time</li>
 	<li>20 mins<br>Total Time</li>
-	<li style="padding-top: 10px"><img src="http://poll-prizes.com/wp-content/uploads/2017/11/star50.png"></li>
+	<li style="padding-top: 10px"><img src="/images/star50.png"></li>
 </div>
 
 

@@ -135,7 +135,7 @@ article { padding: 1em; }
 }
 .menu, .article-meta, footer, .post-nav { text-align: center; }
 .article-footer { text-align: left; }
-.title { font-size: 1.0em; }
+.title { font-size: 1.0em!important; }
 .article-list h1, .title {     line-height: 1.2em; font-size: 1.2em;}
 .article-list h1 {position: relative; top: -20px;}
 .article-list a, .header a, footer a, .categories a, .active a, .comments a { text-decoration: none; }
@@ -295,6 +295,24 @@ h2 {
   .article-meta {
     width: 97.3%;
   }
+}
+
+@media (min-width: 415px){
+
+.article-meta {
+    width: 99%;
+  }
+
+  .title {
+    font-size: 1.5em!important;
+}
+
+.article-meta.single{
+    background-size: cover!important;
+    background-position-y: -135px;
+    background-repeat: no-repeat;
+}
+
 }
 
 

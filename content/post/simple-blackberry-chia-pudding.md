@@ -8,7 +8,7 @@ tags:
 thumbnail: /images/simple-blackberry-chia-pudding.jpg
 time: "12 mins"
 ingredients: "5 ingredients"
-stars: http://poll-prizes.com/wp-content/uploads/2017/11/star40.png
+stars: /images/star40.png
 
 ---
 
@@ -17,7 +17,7 @@ stars: http://poll-prizes.com/wp-content/uploads/2017/11/star40.png
 	<li>2 mins<br>Prep Time</li>
 	<li>10 mins<br>Cook Time</li>
 	<li>12 mins<br>Total Time</li>
-	<li style="padding-top: 10px"><img src="http://poll-prizes.com/wp-content/uploads/2017/11/star40.png"></li>
+	<li style="padding-top: 10px"><img src="/images/star40.png"></li>
 </div>
 
 

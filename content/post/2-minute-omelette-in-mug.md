@@ -8,7 +8,7 @@ tags:
 thumbnail: /images/2-minute-omelette-in-a-mug.jpg
 time: "5 mins"
 ingredients: "6 ingredients"
-stars: http://poll-prizes.com/wp-content/uploads/2017/11/star40.png
+stars: /images/star40.png
 
 ---
 <div class="cookingSummary">
@@ -16,7 +16,7 @@ stars: http://poll-prizes.com/wp-content/uploads/2017/11/star40.png
 	<li>5 mins<br>Total Time</li>
 	<li>3 mins<br>Prep Time</li>
 	<li>2 mins<br>Cook Time</li>
-	<li style="padding-top: 10px"><img src="http://poll-prizes.com/wp-content/uploads/2017/11/star40.png"></li>
+	<li style="padding-top: 10px"><img src="/images/star40.png"></li>
 </div>
 
 
