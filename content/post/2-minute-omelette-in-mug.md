@@ -34,4 +34,4 @@ stars: http://poll-prizes.com/wp-content/uploads/2017/11/star40.png
 3. Add diced meat, salsa, cheese, salt and pepper.  Whisk till all ingredients are completely mixed together.
 4. Microwave on high for one minute.  Stir and break up any large chunks of egg.
 5. Cook for another 45 to 60 seconds or until eggs are set.
-6. Top with a bit more cheese, salt and pepper
+6. Top with a bit more cheese, salt and pepper.
