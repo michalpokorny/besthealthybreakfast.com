@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "http://mptestinghugo.s3-website-us-east-1.amazonaws.com/"
 languageCode = "en-us"
 title = "Fast Breakfast Recipies"
 theme = "hugo-xmag"
