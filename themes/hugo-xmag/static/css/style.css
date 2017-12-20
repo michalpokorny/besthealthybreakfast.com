@@ -253,6 +253,12 @@ body > div > main > div:nth-child(2) {
   color: #fff!important;
 }
 
+main.list a {
+    width: 100%;
+    color: #fff;
+    font-weight: 300;
+}
+
 .list section{
   padding: 0px;
   min-height: 250px;
