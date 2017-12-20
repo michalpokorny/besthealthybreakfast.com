@@ -1,7 +1,7 @@
 {{ partial "header.html" . }}
 
 <div class="container test">
-	<div class="adTag"><div class="adTagContainer">Header Adspace</div></div>
+	<div class="adTag"><div class="adTagContainer"></div></div>
 <main class="list">
 {{ $paginator := .Paginate (where .Data.Pages "Section" "!=" "") }}
 {{ range $paginator.Pages }}
