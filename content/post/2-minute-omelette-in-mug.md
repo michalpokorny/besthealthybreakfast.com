@@ -9,7 +9,6 @@ thumbnail: /images/2-minute-omelette-in-a-mug.jpg
 time: "5 mins"
 ingredients: "6 ingredients"
 stars: /images/star40.png
-advert: advert
 
 ---
 <div class="cookingSummary">

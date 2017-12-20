@@ -9,7 +9,7 @@ thumbnail: /images/healthy-blueberry-muffins.jpg
 time: "25 mins"
 ingredients: "10 ingredients"
 stars: /images/star50.png
-advert: advert
+advert: test
 
 ---
 

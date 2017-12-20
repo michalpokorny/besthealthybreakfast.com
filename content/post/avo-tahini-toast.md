@@ -9,7 +9,6 @@ thumbnail: /images/avo-tahini-toast.jpeg
 time: "10 mins"
 ingredients: "8 ingredients"
 stars: /images/star50.png
-advert: advert
 
 ---
 
