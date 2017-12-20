@@ -6,7 +6,7 @@
 {{ $paginator := .Paginate (where .Data.Pages "Section" "!=" "") }}
 {{ range $paginator.Pages }}
 
-{{ with .Params.advert }}	<div class="adTagList"><div class="adTagContainer">BodyAdspace</div></div>{{ end }}
+{{ with .Params.advert }}	<div class="adTagList"><div class="adTagContainer"></div></div>{{ end }}
 
 <section>
 		<a href="{{ .URL }}">
@@ -27,5 +27,5 @@
 </main>
 <nav>{{ template "_internal/pagination.html" . }}</nav>
 </div>
-<div class="adTag"><div class="adTagContainer">Footer Adspace</div></div>
+<div class="adTag"><div class="adTagContainer"></div></div>
 {{ partial "footer.html" . }}
