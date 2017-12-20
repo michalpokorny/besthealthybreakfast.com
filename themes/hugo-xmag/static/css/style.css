@@ -32,7 +32,8 @@ div.cookingSummary{
     width: 100%;
     margin-bottom: 30px;
     height: 55px;
-    margin-top: 20px;
+    padding-top: 20px;
+    border: 1px solid #ccc;
 }
 ul.cookingSummary{
     list-style: none;
@@ -125,6 +126,9 @@ article { padding: 1em; }
   padding: 5px;
   border-radius: 5px;
   color: #fff;
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+  width: 97.8%;
 }
 .article-meta p a{
   color: #fff;
@@ -264,11 +268,26 @@ h2 {
 
 }
 
-@media (max-width: 320px) { 
-  ul.cookingSummary > li{
-    width: 25%;
-    float: left;
-    font-size: 12px;
+@media (max-width: 330px) { 
+    ul.cookingSummary > li{
+      width: 25%;
+      float: left;
+      font-size: 12px;
+    }
+    .article-list h1, .title {
+      line-height: 1.2em;
+      font-size: 1.2em;
+  }
+
+  .infoBlock {
+    font-size: 15px;
+}
+  ul{
+        padding-left: 30px;
+  }
+
+  .article-meta {
+    width: 97.3%;
   }
 }
 
