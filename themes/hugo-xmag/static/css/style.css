@@ -95,6 +95,7 @@ a{color: #000;text-decoration: none;}
   padding: 1em;
   overflow-x: hidden;
 }
+.adTagList{color:#000;}
 @media (max-width: 380px) {
   .list section { flex: auto; }
 }
@@ -108,8 +109,9 @@ a{color: #000;text-decoration: none;}
   .article-list h1:hover { white-space: inherit; }
 }
 @media (min-width: 1080px) {
-  .list section { max-width: calc(33.33333% - 15px); }
+  .list section, .adTagList { max-width: calc(33.33333% - 15px); }
 }
+.adTagList{width: 100%; padding-right: 15px;}
 .article-list a, .banner a { color: #231f20; }
 .categories a {
   font-size: .9em;
@@ -313,6 +315,13 @@ h2 {
     background-repeat: no-repeat;
 }
 
+}
+
+.adTagContainer {
+    max-width: 300px;
+    margin: 0 auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 
