@@ -6,6 +6,7 @@
     {{ $.Scratch.Set "Title" (default .Title (index .Site.Params.text (print "title_" (lower .Title)))) }}
     <title>Fast Breakfast Recipes</title>
     <link rel="stylesheet" href="{{ "/css/style.css" | relURL }}" />
+    <link href="https://fonts.googleapis.com/css?family=Caveat" rel="stylesheet">
   </head>
 
   <body{{if .IsPage}} class="page"{{ end }}>
