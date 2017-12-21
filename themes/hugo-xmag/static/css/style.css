@@ -323,10 +323,13 @@ h2 {
     padding-top: 10px;
     padding-bottom: 10px;
 }
-.star40, .star45, .star50
-{ display: inline-block; background: url('/images/starsSprite.png') no-repeat; overflow: hidden; text-indent: -9999px; text-align: left; }
+
+
+.bfblogo, .star40, .star45, .star50
+{ display: inline-block; background: url('/images/sprite.png') no-repeat; overflow: hidden; text-indent: -9999px; text-align: left; }
  
-.star40 { background-position: -3px -0px; width: 65px; height: 12px; }
-.star45 { background-position: -3px -15px; width: 65px; height: 12px; }
-.star50 { background-position: -3px -30px; width: 65px; height: 12px; }
+.bfblogo { background-position: -3px -0px; width: 250px; height: 46px; }
+.star40 { background-position: -3px -49px; width: 65px; height: 12px; }
+.star45 { background-position: -71px -49px; width: 65px; height: 12px; }
+.star50 { background-position: -139px -49px; width: 65px; height: 12px; }
 

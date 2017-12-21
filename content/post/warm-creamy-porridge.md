@@ -17,7 +17,7 @@ stars: star50
 	<li>1 mins<br>Prep Time</li>
 	<li>10 mins<br>Cook Time</li>
 	<li>11 mins<br>Total Time</li>
-	<li style="padding-top: 10px"><div class="star50"></div>></li>
+	<li style="padding-top: 10px"><div class="star50"></div></li>
 </div>
 
 ## Ingredients
