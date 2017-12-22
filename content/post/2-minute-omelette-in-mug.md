@@ -1,6 +1,6 @@
 ---
 title: "2 Minute Omelette in a Mug"
-date: 2017-12-13T12:39:22+01:00
+date: 2017-12-16T12:39:22+01:00
 author: Name Surname
 tags:
  - Egg
@@ -9,6 +9,7 @@ thumbnail: /images/2-minute-omelette-in-a-mug.jpg
 time: "5 mins"
 ingredients: "6 ingredients"
 stars: star40
+advert2: atomx
 
 ---
 <div class="cookingSummary">

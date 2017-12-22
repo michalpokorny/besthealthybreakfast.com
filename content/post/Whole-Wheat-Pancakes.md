@@ -1,6 +1,6 @@
 ---
 title: "Whole Wheat Pancakes"
-date: 2017-12-13T12:39:22+01:00
+date: 2017-12-11T12:39:22+01:00
 author: Name Surname
 tags:
  - Pancakes

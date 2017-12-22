@@ -2,7 +2,7 @@ baseurl = "/"
 languageCode = "en-us"
 title = "Fast Breakfast Recipies"
 theme = "hugo-xmag"
-googleAnalytics = ""
+googleAnalytics = "UA-109623451-6"
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
@@ -19,8 +19,8 @@ paginate = 9
     url = "/"
     weight = 1
 [[menu.main]]
-    name = "Categories"
-    url = "/categories/"
+    name = "Privacy policy"
+    url = "/privacypolicy/"
     weight = 2
 [[menu.main]]
     name = "Tags"
@@ -29,7 +29,7 @@ paginate = 9
 
 
 [params]
-    description = "A website built through Hugo and blogdown."
+    description = "With us you can enjoy your best fast breakfast every morning."
     summary_length = 200
     footer = "&copy; besthealthybreakfast.com 2017"
 

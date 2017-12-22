@@ -1,6 +1,6 @@
 ---
 title: "Simple Blackberry Chia Pudding"
-date: 2017-12-13T12:39:22+01:00
+date: 2017-12-19T12:39:22+01:00
 author: Name Surname
 tags:
  - blackberry
@@ -9,7 +9,7 @@ thumbnail: /images/simple-blackberry-chia-pudding.jpg
 time: "12 mins"
 ingredients: "5 ingredients"
 stars: star40
-
+advert: mads
 ---
 
 <div class="cookingSummary">

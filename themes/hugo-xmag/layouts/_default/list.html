@@ -6,12 +6,24 @@
 {{ $paginator := .Paginate (where .Data.Pages "Section" "!=" "") }}
 {{ range $paginator.Pages }}
 
-{{ with .Params.advert }}	<div class="adTagList"><div class="adTagContainer"></div></div>{{ end }}
+{{ with .Params.advert }}	<div class="adTagList"><div class="adTagContainer"><!-- MSales - Besthealthybreakfast.com - Mobile Site - 320x50 - Above the fold - pid: 7597976070 -->
+<div id='MSales - Besthealthybreakfast.com - Mobile Site - 320x50 - Above the fold'></div>
+<script src="//eu2.madsone.com/js/tags.js"></script>
+<script>
+MADSAdrequest.adrequest({
+  async: true,
+  element_id: 'MSales - Besthealthybreakfast.com - Mobile Site - 320x50 - Above the fold',
+  pid: '7597976070'
+});
+</script></div></div>{{ end }}
+
+{{ with .Params.advert2 }}	<div class="adTagList">
+<div class="adTagContainer"><script data-cfasync=false src="//s.ato.mx/p.js#id=3991041&size=300x250"></script>
+</script></div></div>{{ end }}
 
 <section>
 		<a href="{{ .URL }}">
   <div class="article-list" style="background:linear-gradient(to bottom, rgba(240,47,23,0) 0%, rgba(255,255,255,0) 0%, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 29%, rgba(0,0,0,0.71) 99%, rgba(0,0,0,0.72) 100%), url('{{ .Params.thumbnail }}'); background-size: cover;">
-  
 
 
   <h1>{{ .Title }}</h1>
@@ -31,5 +43,16 @@
 
 
 
-<div class="adTag"><div class="adTagContainer"></div></div>
+<div class="adTag"><div class="adTagContainer">
+<!-- MSales - Besthealthybreakfast.com - Mobile Site - 320x50 - Footer - pid: 7597995728 -->
+<div id='MSales - Besthealthybreakfast.com - Mobile Site - 320x50 - Footer'></div>
+<script src="//eu2.madsone.com/js/tags.js"></script>
+<script>
+MADSAdrequest.adrequest({
+  async: true,
+  element_id: 'MSales - Besthealthybreakfast.com - Mobile Site - 320x50 - Footer',
+  pid: '7597995728'
+});
+</script>
+</div></div>
 {{ partial "footer.html" . }}
